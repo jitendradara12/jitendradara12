@@ -1,13 +1,13 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=hi&fontSize=37)
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=backend+dev.+fedora.+neovim.;currently%3A+avoiding+frontend;prod+is+fine.+probably.;it+works+on+my+machine.;)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=backend+dev.+NixOS.+neovim.;currently%3A+avoiding+frontend;prod+is+fine.+probably.;it+works+on+my+machine.;)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/fedora-hyprland-1793d1?style=flat-square&logo=fedora&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/NixOS-hyprland-1793d1?style=flat-square&logo=nixos&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/uptime-20y-a0a0a0?style=flat-square&labelColor=0d0d0d" />
 <br/><br/>
 
