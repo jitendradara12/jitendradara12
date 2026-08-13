@@ -1,7 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=hi&fontSize=37)
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=backend+dev.+NixOS.+neovim.;currently%3A+avoiding+frontend;prod+is+fine.+probably.;it+works+on+my+machine.;)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=269&section=header&text=hi&fontSize=27)
+
 
 </div>
 
