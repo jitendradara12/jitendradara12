@@ -7,8 +7,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NixOS-hyprland-1793d1?style=flat-square&logo=nixos&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/uptime-20y-a0a0a0?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/NixOS-hyprland-1793d1?style=flat&logo=nixos&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/uptime-20y-a0a0a0?style=flat&labelColor=0d0d0d" />
+<a href="https://wakatime.com/@30152bb0-ef36-4e24-8a98-6d8ba211f7fd"><img src="https://wakatime.com/badge/user/30152bb0-ef36-4e24-8a98-6d8ba211f7fd.svg" alt="Total time coded since Nov 17 2025" /></a>
 <br/><br/>
 
 
